@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group>
+        <item
+            android:id="@+id/urlFragment"
+            android:icon="@drawable/ic_home"
+            android:title="Home" />
+        <item
+            android:id="@+id/loginFragment"
+            android:icon="@drawable/ic_user"
+            android:title="Login"
+            android:visible="false" />
+        <item
+            android:id="@+id/signUpFragment"
+            android:icon="@drawable/ic_name"
+            android:title="SignUp"
+            android:visible="false" />
+        <item
+            android:id="@+id/developerFragment"
+            android:icon="@drawable/ic_developer"
+            android:title="Developement" />
+    </group>
+</menu>

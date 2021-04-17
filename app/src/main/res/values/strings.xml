@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Trovo Trick</string>
+    <string name="unesite_share_link">Sharing URL</string>
+    <string name="trovo_text">Trovo sharing link hack!</string>
+    <string name="start">START</string>
+    <string name="runing">RUNNING</string>
+    <string name="open">LOAD SHARING URL</string>
+    <string name="stop">STOP</string>
+    <string name="froydenzi">© froydenzi</string>
+    <string name="trovo_logo">©2021 FROYDENZI All Rights Reserved</string>
+    <string name="notvalid">Entered text is not valid URL!</string>
+    <string name="nav_header_title">Trovo Trick</string>
+    <string name="nav_header_subtitle">©2021 FROYDENZI</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="connected">Connected</string>
+    <string name="connecting">Connecting</string>
+    <string name="disconnect">Disconnected</string>
+    <string name="waiting">Waiting for server</string>
+    <string name="server_auth">Server authenticating..</string>
+    <string name="reconnecting">Reconecting..</string>
+    <string name="no_internet">no network connection</string>
+
+</resources>
